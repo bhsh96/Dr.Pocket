@@ -1,0 +1,18 @@
+Bladder cancer
+Lung cancer
+Brain cancer
+Melanoma
+Breast cancer
+Non-Hodgkin lymphoma
+Cervical cancer
+Ovarian cancer
+Colorectal cancer
+Pancreatic cancer
+Esophageal cancer
+Prostate cancer
+Kidney cancer
+Skin cancer
+Leukemia
+Thyroid cancer
+Liver cancer
+Uterine cancer
